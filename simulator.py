@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 from time import sleep
 import pandas as pd
 import random

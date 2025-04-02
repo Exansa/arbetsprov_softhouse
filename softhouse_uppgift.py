@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from flask import Flask, request, jsonify, abort
 import pandas as pd
 from filelock import FileLock
